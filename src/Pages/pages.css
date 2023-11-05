@@ -1,0 +1,92 @@
+.profile-card {
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+    border: 2px solid #333;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+  }
+  
+  .profile-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-img-top {
+    border-radius: 50%;
+  }
+  .form-container {
+    width: 60%; /* Increase the width to 60% of its container */
+    padding: 20px; /* Add padding to the form container */
+    border: 1px solid #ccc; /* Add a border to the form container */
+  }
+  .card-title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  
+  .card-subtitle {
+    color: #555;
+  }
+  
+  .card-text {
+    font-size: 16px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  /* Background color and container styles */
+.profile-container {
+    background-color: #f0f0f0; /* Set your desired background color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Welcome text styling */
+  .welcome-text {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Card and button styling */
+  .profile-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .card-subtitle {
+    color: #555;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  

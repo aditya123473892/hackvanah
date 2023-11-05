@@ -1,0 +1,47 @@
+/* Navbar.css */
+.btn-custom-nav {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: aliceblue;
+  }
+  .btn-custom:hover{
+    background-color: none;
+  }
+  .icon {
+    font-size: 20px;
+    margin-right: 5px;
+  }
+  
+  .brand {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Arial, sans-serif';
+  }
+
+  .btn-custom-nav {
+    background-color: transparent;
+    border: none;
+    outline: none;
+  }
+  
+  .btn-custom-nav:hover {
+    background-color:transparent;
+     color:white ;
+  }
+  
+  .icon {
+    font-size: 20px;
+    margin-right: 5px;
+  }
+  
+  .brand {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Arial, sans-serif';
+  }
+  

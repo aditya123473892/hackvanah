@@ -1,0 +1,117 @@
+.card-custom {
+    height: 300px; /* Adjust the height as per your requirements */
+  }
+  /* Cards.css */
+.card-custom {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn-custom {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .btn-custom:hover {
+    background-color: #0056b3;
+    color: white;
+  }
+  /* Cards.css */
+.card-custom {
+    background-color: #f5f5f5; /* Light gray background color */
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    color: black; /* Dark text color */
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color:black !important; /* Slightly darker text color */
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn-custom {
+    background-color: #007BFF; /* Primary blue color */
+    color: white;
+  }
+  
+  .btn-custom:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Cards.css */
+.card-custom {
+    background-color: #f9f9f9; /* Very light gray background color */
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    color: #333; /* Dark text color */
+  }
+  
+ 
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn-custom {
+    background-color: #007BFF; /* Primary blue color */
+    color: white;
+  }
+  
+  .btn-custom:hover {
+    background-color: #0056b3;
+  }
+.bg-color{
+    background-color:  #ECE3CE;
+}
+/* Cards.css */
+.bg-custom-1 {
+    background-color: #ff5733; /* Example background color 1 */
+  }
+  
+  .bg-custom-2 {
+    background-color: #33ff57; /* Example background color 2 */
+  }
+  
+  .bg-custom-3 {
+    background-color: #5733ff; /* Example background color 3 */
+  }
+  
+  .bg-custom-4 {
+    background-color: #33ff57; /* Example background color 4 */
+  }
+  
+  .bg-custom-5 {
+    background-color: #ff57b1; /* Example background color 5 */
+  }
+  
+  .bg-custom-6 {
+    background-color: #ff5733; /* Example background color 6 */
+  }
+  
